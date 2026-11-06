@@ -1,0 +1,6 @@
+{
+  "name": "Taskboard",
+  "description": "A modern, responsive project management web app like Trello built with React, TypeScript, Tailwind CSS, and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
